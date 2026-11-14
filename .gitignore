@@ -1,0 +1,13 @@
+# AWS Credentials - never upload to GitHub!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# CSV files with raw data
+*.csv
